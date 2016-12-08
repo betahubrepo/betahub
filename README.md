@@ -32,12 +32,3 @@ The Q&A app works just like Stack Overflow. You can mark a question as favorite,
 - Twitter Bootstrap 3
 - jQuery 2
 
-
-## Installation Guide
-
-Take a look at our wiki page for a detailed [installation guide][3].
-
-
-## Demo
-
-...
